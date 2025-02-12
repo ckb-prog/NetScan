@@ -80,3 +80,7 @@ This tool is intended for authorized network analysis and troubleshooting only. 
    To run the script directly, change its permissions:
    ```bash
    chmod +x NetScan.py
+3. **Execution**
+   ```bash
+   sudo ./NetScan.py
+   ```
